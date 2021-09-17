@@ -1,3 +1,5 @@
+https://steniz-buku.herokuapp.com/anonymous
+
 Buku - A Book Review App
 
 - This app was successfully deployed on Heroku
